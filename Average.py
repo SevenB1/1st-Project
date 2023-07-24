@@ -1,8 +1,14 @@
 from statistics import mean
 
-a = int(input("What's x?"))
-b = int(input("What's y?"))
+A = int(input("Number of values:"))
 
+if A == 2:
+    a = int(input("What's x?"))
+    b = int(input("What's y?"))
+    print(mean([a, b]))
+elif A == 3:
+    a = int(input("What's x?"))
+    b = int(input("What's y?"))
 
-
-print(mean([a, b]))
+else:
+    print("Code not sufficent")
