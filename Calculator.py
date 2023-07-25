@@ -1,6 +1,6 @@
-x = float(input ("what's x?"))
-y = float(input ("what's y?"))
+x = float(input("what's x?"))
+y = float(input("what's y?"))
 
-z = ( x + y)
+z = x + y
 
 print(f"{z}")

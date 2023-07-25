@@ -12,20 +12,20 @@ elif A == 3:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
     c = int(input("What's the 3rd value? "))
-    print("The Average is", mean([a,b,c]))
+    print("The Average is", mean([a, b, c]))
 elif A == 4:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
     c = int(input("What's the 3rd value? "))
     d = int(input("What's the 4th value? "))
-    print("The Average is", mean([a,b,c,d]))    
+    print("The Average is", mean([a, b, c, d]))
 elif A == 5:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
     c = int(input("What's the 3rd value? "))
     d = int(input("What's the 4th value? "))
     e = int(input("What's the 5th value? "))
-    print("The Average is", mean([a,b,c,d,e]))   
+    print("The Average is", mean([a, b, c, d, e]))
 elif A == 6:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
@@ -33,7 +33,7 @@ elif A == 6:
     d = int(input("What's the 4th value? "))
     e = int(input("What's the 5th value? "))
     f = int(input("What's the 6th value? "))
-    print("The Average is", mean([a,b,c,d,e,f]))   
+    print("The Average is", mean([a, b, c, d, e, f]))
 elif A == 7:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
@@ -42,7 +42,7 @@ elif A == 7:
     e = int(input("What's the 5th value? "))
     f = int(input("What's the 6th value? "))
     g = int(input("What's the 7th value? "))
-    print("The Average is", mean([a,b,c,d,e,f,g]))   
+    print("The Average is", mean([a, b, c, d, e, f, g]))
 elif A == 8:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
@@ -52,7 +52,7 @@ elif A == 8:
     f = int(input("What's the 6th value? "))
     g = int(input("What's the 7th value? "))
     h = int(input("What's the 8th value? "))
-    print("The Average is", mean([a,b,c,d,e,f,g,h]))   
+    print("The Average is", mean([a, b, c, d, e, f, g, h]))
 elif A == 9:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
@@ -63,7 +63,7 @@ elif A == 9:
     g = int(input("What's the 7th value? "))
     h = int(input("What's the 8th value? "))
     i = int(input("What's the 9th value? "))
-    print("The Average is", mean([a,b,c,d,e,f,g,h,i]))   
+    print("The Average is", mean([a, b, c, d, e, f, g, h, i]))
 elif A == 10:
     a = int(input("What's the 1st value? "))
     b = int(input("What's the 2nd value? "))
@@ -75,6 +75,6 @@ elif A == 10:
     h = int(input("What's the 8th value? "))
     i = int(input("What's the 9th value? "))
     j = int(input("What's the 10th value? "))
-    print("The Average is", mean([a,b,c,d,e,f,g,h,i,j]))   
+    print("The Average is", mean([a, b, c, d, e, f, g, h, i, j]))
 else:
     print("Code not sufficent")
