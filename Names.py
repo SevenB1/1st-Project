@@ -1,5 +1,4 @@
-name = input("What's your name?")
-
-
-with open("Names.txt", "a", ) as file:
-    file.write(f"{name}\n")
+with open("names.txt", "r") as file:
+    lines = file.readlines()
+for line in lines:
+    print("Hello", line.rstrip()  )
