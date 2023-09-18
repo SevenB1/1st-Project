@@ -1,0 +1,1 @@
+Scale = input ("1= Farenheit to Celcius")

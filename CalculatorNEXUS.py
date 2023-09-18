@@ -9,13 +9,13 @@ print("7.Remainder")
 
 format = float(input("Enter the desired format: "))
 if format == 1:
-    a = float(input("Enter the numerator: "))
-    b = float(input("Enter the denominator: "))
+    a = float(input("Enter the Numerator: "))
+    b = float(input("Enter the Denominator: "))
     c = a / b 
     print(f"{a}/{b} = {round(c, 2)}")
 elif format == 2:
-    a = float(input("Enter the multiplicand: "))
-    b = float(input("Enter the multiplier: "))
+    a = float(input("Enter the Multiplicand: "))
+    b = float(input("Enter the Multiplier: "))
     c = a * b 
     print(f"{a}*{b} = {round(c, 2)}")
 elif format == 3:
