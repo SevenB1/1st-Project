@@ -7,7 +7,7 @@ print("5.Floor Division")
 print("6.Power")
 print("7.Remainder")
 
-format = float(input("Enter the desired format: "))
+format = float(input("Enter a number corresponding to a function: "))
 if format == 1:
     a = float(input("Enter the Numerator: "))
     b = float(input("Enter the Denominator: "))
