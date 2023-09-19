@@ -37,9 +37,9 @@ while(True):
         print("ERROR: Invalid syntax")
         exit()
     cont_opt = input("Would you like another transaction (y/n) ?")
-    if cont_opt == "n" or "N":
+    if cont_opt == "n" or cont_opt == "N":
         exit()
-    elif cont_opt == "y" or "Y":
+    elif cont_opt == "y" or cont_opt == "Y":
         continue
     else:
         print("EEROR: You have Selected the wrong option: Exiting the program")
