@@ -8,7 +8,7 @@ while(True):
     print('\t\t\t============ 1. Find the Cube              ===============')
     print('\t\t\t============ 2. Find the area of Square    ===============')
     print('\t\t\t============ 3. Find the area of Rectangle ===============')
-    option = input('Please Enter the option: ')
+    option = input('Please Enter a option: ')
     if option == '1':
         number = int(input('Please Enter the number to find the cube: '))
         y = cube(number)
