@@ -1,7 +1,7 @@
 import math
 n = int(input("Enter a number: "))
-if n >= 1:
+if n >= 0:
      result = math.factorial(n)
-     print(result)
+     print(f"The factorial of {n} is {result}.")
 else:
      print("Number cannot be less than zero")
