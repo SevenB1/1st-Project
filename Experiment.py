@@ -1,7 +1,11 @@
-empty_dict = {}
+import pandas as pd
 
-empty_dict.update({"Name": "Alice", "Age": "30"})
-name = empty_dict["Name"]
-age = empty_dict["Age"]
+data = {
+  "calories": [420, 380, 390],
+  "duration": [50, 40, 45]
+}
 
-print(name,",",age)
+#load data into a DataFrame object:
+df = pd.DataFrame(data)
+
+print(df) 
