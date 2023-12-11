@@ -30,11 +30,20 @@ Embark on this Python learning journey with me, exploring the twists and turns o
 
 
 
+## Code Examples and Screenshots
 
-### Code Examples and Screenshots
+- Cowsay.py
+<img width="597" alt="Cowsay" src="https://github.com/SevenB1/1st-Project/assets/121315598/743e6fc9-77ad-44d2-a712-f954072924d7">
 
-- [Cowsay Library Execution](<img width="597" alt="Cowsay" src="https://github.com/SevenB1/1st-Project/assets/121315598/743e6fc9-77ad-44d2-a712-f954072924d7">): See the result of running a Python script using the cowsay library.
+  - See the result of running a Python script using the cowsay library.
 
-- [iTunes Data Retrieval](<img width="384" alt="Itunes py" src="https://github.com/SevenB1/1st-Project/assets/121315598/02a383fc-1e8d-49b2-b134-fa37721c3268">): Check out the code and result of extracting and displaying 20 songs by artists from the iTunes website.
+- iTunes.py
+<img width="384" alt="Itunes py" src="https://github.com/SevenB1/1st-Project/assets/121315598/02a383fc-1e8d-49b2-b134-fa37721c3268">
 
-- [Triangle Generator](<img width="449" alt="Right-Angled_Triangle" src="https://github.com/SevenB1/1st-Project/assets/121315598/0ad3f979-9e76-4fbb-b475-d947db6734a4">): Explore a Python script that generates different types of triangles.
+  - Check out the code and result of extracting and displaying 20 songs by artists from the iTunes website.
+
+- Triangle.py
+<img width="449" alt="Right-Angled_Triangle" src="https://github.com/SevenB1/1st-Project/assets/121315598/0ad3f979-9e76-4fbb-b475-d947db6734a4">
+
+
+  - Explore a Python script that generates different types of triangles.
